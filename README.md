@@ -2,7 +2,8 @@
 This is a mini clone of the reddit application, which displays the authors/users, comments and their post via the rails associations, it also checks for validation of the inputs field before it is saved into the database. It is tested on the rails console.
 
 ## Built With
-- Ruby, Ruby on Rails
+- Ruby
+- Ruby on Rails
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps:
@@ -14,28 +15,9 @@ To get a local copy up and running follow these simple example steps:
 
 ## Usage
 - Clone the project to your local machine
-- Run rails server
+- Run rails console
+
 ![screenshot](screenshot.png)
-
-### Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 
 
 ## Authors
@@ -57,7 +39,7 @@ To get a local copy up and running follow these simple example steps:
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/okikiola11/enumerable_method/issues).
+Feel free to check the [issues page](https://github.com/okikiola11/micro-reddit/issues).
 
 ## Show your support
 
